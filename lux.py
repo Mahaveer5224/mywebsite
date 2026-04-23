@@ -4,7 +4,7 @@ st.set_page_config(layout="wide")
 def second_page():
     st.markdown("Welcome my dear **Bujikki**")
     st.markdown(
-    "<p style='font-size:75px; color:blue;'>I Love you my dear Pondatttiiiiiiiiiiiiii. <br> Mama is waiting for you.... </p>",
+    "<p style='font-size:75px; color:blue;'>I Love you my dear Pondatttiiiiiiiiiiiiii. <br> Mahaveer Mama is waiting for you.... </p>",
     unsafe_allow_html=True)
 
 st.title("Hello, Lux!")
