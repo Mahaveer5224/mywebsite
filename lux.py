@@ -13,7 +13,7 @@ st.text("Please log in to continue.")
 username=st.text_input("Username", placeholder="Enter your username")
 password=st.text_input("Password", placeholder="Enter your password", type="password")
 if st.button("Login"):
-    if username == "lakshmi" and password == "Mahalakshmi@123":
+    if username == "lakshmi" and password == "Mahaveerlakshmi":
         st.success("Login successful!")
         second_page()
     else:
